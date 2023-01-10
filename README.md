@@ -11,7 +11,7 @@ twice a day at specific times.
 
 ## Getting Started
 
-### Video Demo
+### Video Demo (Click image)
 [![Video](https://img.youtube.com/vi/sg_qU68eMgs/0.jpg)](https://www.youtube.com/watch?v=sg_qU68eMgs)
 
 
