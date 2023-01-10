@@ -12,7 +12,7 @@ twice a day at specific times.
 ## Getting Started
 
 ### Video Demo
-[![Video](https://img.youtube.com/vi/sg_qU68eMgs/0.jpg)](https://www.youtube.com/watch?v=sg_qU68eMgs)
+[![Video](https://img.youtube.com/vi/sg_qU68eMgs/10.jpg)](https://www.youtube.com/watch?v=sg_qU68eMgs)
 
 
 
